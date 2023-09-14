@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Ezequiel+Torcetta++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
-<h2 align="left">💻 Ingeniería en Sistemas de Información 🔵🔵⚪⚪⚪</h2>
-<h2 align="left">🧠 Ingeniería Industrial 🔵🔵🔵⚪⚪</h2>
+<h3 align="left">💻 Ingeniería en Sistemas de Información 🔵🔵⚪⚪⚪</h3>
+<h3 align="left">🧠 Ingeniería Industrial 🔵🔵🔵⚪⚪</h3>
 
 <br></br>
 </p><h2 align="left">Contact:</h2><p align="left"> 
